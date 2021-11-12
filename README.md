@@ -32,4 +32,6 @@ General Observations:
 - In early January, urban and suburban cities experienced the lowest total fares. Rural cities had its lowest total fares in mid-February, just before it peaked. 
 
 ## Summary
-- Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+- PyBer has been the most popular in urban cities, so keeping up that momentum with more marketing could help to attract more users and drivers. The company should invest more in increasing demand in suburban and rural cities. This could be through marketing on social media and incentives, like higher discounts for new users in these cities compared to urban city residents. 
+- Drivers in urban cities make the least compared to the other city types, so if it is possible, PyBer can incentivize those drivers to continue working for them and attracting new drivers by subsidizing their earnings through some sort of base rate on top of the fare per ride. 
+- Another recommendation is to charge riders more per mile in urban cities to account for wear and tear to the drivers’ cars and the longer wait times when there may be gridlock traffic. Along the same lines, PyBer could start charging peak travel time premiums (e.g. morning and evening commute times, weekends, special events in the area).
